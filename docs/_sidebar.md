@@ -1,6 +1,6 @@
 ![logo](_media/logo.webp ":class=logo")
 
-- [Introduction](/)
+- [Introduction](/docs/index.md)
 
 - Webhooks
-  - [Getting started](webhooks.md)
+  - [Getting started](/docs/webhooks.md)
